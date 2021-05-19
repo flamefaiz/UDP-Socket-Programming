@@ -1,5 +1,3 @@
-Hi sir.
-
 All you need to do is, run the programs in this order:
 1. DiffieHelmanGen.java
 2. Alice.java
